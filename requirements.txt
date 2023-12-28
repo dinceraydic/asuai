@@ -1,0 +1,17 @@
+numpy
+pandas
+openpyxl
+black
+ipython
+ipykernel
+jupyter
+python-dotenv
+langchain
+openai
+beautifulsoup4
+lxml
+pypdf
+tiktoken
+chromadb
+deepl
+streamlit
