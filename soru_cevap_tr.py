@@ -18,18 +18,18 @@ load_dotenv(".env")
 api_key = os.environ.get("OPENAI_API_KEY")
 
 # Configure langchain
-SQLiteCache(database_path=".langchain.db")
-text_splitter = CharacterTextSplitter.from_tiktoken_encoder(chunk_size=250)
+# SQLiteCache(database_path=".langchain.db")
+text_splitter = CharacterTextSplitter.from_tiktoken_encoder(chunk_size=200)
 embedding_function = OpenAIEmbeddings()
 
 # Load documents
-loader = TextLoader("./data/SSS.txt", encoding="UTF-8")
+loader = TextLoader("./data/metin1.txt", encoding="UTF-8")
 documents = loader.load()
 
 # Split and persist documents
 docs = text_splitter.split_documents(documents)
 db = Chroma.from_documents(
-    docs, embedding_function, persist_directory="./vector-store/asu_ai_db_tr"
+    docs, embedding_function, persist_directory="./vector-store/asu_ai_db_tr200_3"
 )
 db.persist()
 
