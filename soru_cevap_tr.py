@@ -17,21 +17,31 @@ from langchain.vectorstores import Chroma
 load_dotenv(".env")
 api_key = os.environ.get("OPENAI_API_KEY")
 
-# Configure langchain
-# SQLiteCache(database_path=".langchain.db")
-text_splitter = CharacterTextSplitter.from_tiktoken_encoder(chunk_size=200)
+vector_store_persist_directory = "./vector-store/asu_ai_db_tr"
+original_document_path = "./data/SSS.txt"
+
 embedding_function = OpenAIEmbeddings()
 
-# Load documents
-loader = TextLoader("./data/metin1.txt", encoding="UTF-8")
-documents = loader.load()
+if os.path.exists(vector_store_persist_directory):
+    # Configure langchain
+    # SQLiteCache(database_path=".langchain.db")
+    text_splitter = CharacterTextSplitter.from_tiktoken_encoder(chunk_size=200)
 
-# Split and persist documents
-docs = text_splitter.split_documents(documents)
-db = Chroma.from_documents(
-    docs, embedding_function, persist_directory="./vector-store/asu_ai_db_tr200_3"
-)
-db.persist()
+    # Load documents
+    loader = TextLoader(original_document_path, encoding="UTF-8")
+    documents = loader.load()
+
+    # Split and persist documents
+    docs = text_splitter.split_documents(documents)
+    db = Chroma.from_documents(
+        docs, embedding_function, persist_directory=vector_store_persist_directory
+    )
+    db.persist()
+else:
+    db = Chroma(
+        persist_directory=vector_store_persist_directory,
+        embedding_function=embedding_function,
+    )
 
 # Connect to OpenAI Model
 model = ChatOpenAI(openai_api_key=api_key)
