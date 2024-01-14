@@ -21,7 +21,7 @@ from load_docs import load_docs
 
 load_dotenv("../.env")
 api_key = os.environ.get("OPENAI_API_KEY")
-persist_vector_directory = "./vector-store/son_vector_store_v4"
+persist_vector_directory = "./vector-store/son_vector_store_v6"
 
 ## Caching
 langchain.llm = SQLiteCache("./cache/langchain.db")
