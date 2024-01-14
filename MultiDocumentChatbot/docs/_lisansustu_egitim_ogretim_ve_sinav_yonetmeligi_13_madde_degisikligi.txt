@@ -1,0 +1,35 @@
+AKSARAY ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM ÖĞRETİM VE SINAV YÖNETMELİĞİ 13. MADDE DEĞİŞİKLİĞİ
+MADDE 13 – (1) Tezli yüksek lisansta başarı değerlendirmesine ilişkin esaslar şunlardır:
+a) Tezli yüksek lisans programına öğrenci kabulünde mülakat veya yazılı sınavına göre değerlendirmenin yapılıp yapılmayacağı ilgili Anabilim/Anasanat Dalı Kurulunun teklifi, Enstitü Yönetim Kurulu’nun onayı ile belirlenir.
+b) Başvurusu kabul edilen adayların başarı değerlendirilmesiyle ilgili esaslar şunlardır:
+1) Mülakat veya yazılı sınavına göre değerlendirme yapılmayacaksa; başarı değerlendirilmesiALES ve mezuniyet not ortalaması dikkate alınarak yapılır. Genel başarı notu ALES’in %60’ı, lisans mezuniyet notunun %40’ı alınarak hesaplanır. Adaylar, genel başarı notlarına göre sıralanarak kontenjanlar kadar asıl ve 2(iki) katına kadar yedek aday belirlenir.
+Uygulama tablosu aşağıdaki gibidir:
+
+
+Ales: %60
+Mezuniyet not ortalaması: %40
+Genel başarı notu: %100
+Kontenjan Kadar Asıl ve 2 Katı Kadar Yedek Aday Belirlenir.
+
+2) Mülakat veya yazılı sınavına göre değerlendirme yapılacaksa, sınav değerlendirmesi iki aşamalı gerçekleştirilir. Birinci aşamada; ALES’in %50’si, lisans mezuniyet notunun %20’si hesaplanarak yapılan sıralamada en üstten başlayarak kontenjan sayısının 3(üç) katı kadar aday belirlenir. İkinci aşamada; mülakat veya yazılı sınavın değerlendirmesinin herhangi birinden adayın aldığı puanın %30’u birinci aşamada almış olduğu puanın üstüne eklenerek genel başarı notu hesaplanır. Adaylar genel başarı notlarına göre sıralanarak kontenjanlar kadar asıl ve 2(iki) katına kadar yedek aday belirlenir. Uygulama tablosu aşağıdaki gibidir:
+
+1. Aşama
+Ales: %50
+Mezuniyet not ortalaması: %20
+Kontenjan Sayısının 3 Katı Kadar Aday 2. Aşamaya Çağrılır.
+
+2. Aşama
+Yazılı / Mülakat (kriterlerden sadece birisi) %30
+Genel başarı notu: %100
+Kontenjan Kadar Asıl ve 2 Katı Kadar Yedek Aday Belirlenir.
+
+c) Mülakat veya yazılı sınavına katılmayan veya 100 üzerinden 50 puandan aşağı alan öğrenci başarısız sayılarak değerlendirmeye alınmayacaktır. Adayların başarılı sayılabilmesi için genel başarı notunun 100 üzerinden en az 50 olması gerekir.
+ç) Enstitü Yönetim Kurulu’nun onayıyla değerlendirme sonucu ilan edilir. Genel başarı notu aynı olan adaylar için ALES puanı, eşitlik devam ettiği takdirde de lisans mezuniyet not ortalaması dikkate alınarak sıralama yapılır.
+(2) Tezsiz yüksek lisansta başarı değerlendirmesine ilişkin esaslar şunlardır:
+a) Başvurusu kabul edilen adayların başarı değerlendirmesi ALES, lisans mezuniyet notu dikkate alınarak yapılır. Genel başarı notu; ALES’in % 20’u, lisans mezuniyet notunun % 80’i alınarak hesaplanır. Adaylar, genel başarı notuna göre sıralanarak kontenjanlar kadar asıl ve 2(iki) katına kadar yedek aday belirlenir.
+b) Enstitü Yönetim Kurulu’nun onayıyla değerlendirme sonucu ilan edilir. Genel başarı notu aynı olan adaylar için ALES puanı, eşitlik devam ettiği takdirde de lisans mezuniyet not ortalaması dikkate alınarak sıralama yapılır.
+(3) Doktora programlarında başarı değerlendirmesine ilişkin esaslar şunlardır:
+a) Doktora programına öğrenci kabulünde mülakat veya yazılı sonucu da değerlendirmeye katılır. Başvurusu kabul edilen adayların başarı değerlendirmesi ALES, lisans mezuniyet notu, yabancı dil, yazılı veya mülakat sınav notu dikkate alınarak yapılır. Genel başarı notu ALES’in % 50’si, lisans mezunları için lisans notu, yüksek lisans mezunları için yüksek lisans notunun %20’si, yabancı dil puanının %10’u ve mülakat veya yazılı sınavının %20’si alınarak hesaplanır. Adaylar, genel başarı notlarına göre sıralanarak kontenjan kadar asıl ve yedek aday belirlenir.
+b) Mülakat veya yazılı sınavına katılmayan veya 100 üzerinden 50 puandan aşağı alan öğrenci başarısız sayılarak değerlendirmeye alınmayacaktır.
+c) Adayların başarılı sayılabilmesi için genel başarı notunun 100 üzerinden en az 60 olması gerekir.
+ç) Enstitü Yönetim Kurulu’nun onayıyla değerlendirme sonucu ilan edilir. Genel başarı notu aynı puana sahip olan adaylar için ALES puanı, eşitlik devam ettiği takdirde de bütünleşik doktora programları için lisans ve diğer başvurular için yüksek lisans mezuniyet notu dikkate alınarak sıralama yapılır.

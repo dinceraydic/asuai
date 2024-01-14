@@ -2,7 +2,7 @@ import os
 
 import streamlit as st
 from langchain.document_loaders import Docx2txtLoader, PyPDFLoader, TextLoader
-from langchain_community.document_loaders import JSONLoader
+from langchain_community.document_loaders.csv_loader import CSVLoader
 
 
 @st.cache_data()
@@ -20,6 +20,10 @@ def load_docs():
         elif file.endswith(".txt"):
             text_path = "./docs/" + file
             loader = TextLoader(text_path, encoding="utf-8")
+            documents.extend(loader.load())
+        elif file.endswith(".csv"):
+            csv_path = "./docs/" + file
+            loader = CSVLoader(csv_path)
             documents.extend(loader.load())
 
     return documents

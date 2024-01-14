@@ -101,6 +101,7 @@ Doktora tez önerisi reddedilen öğrenci, yeni bir danışman ve/veya tez konus
 Kayıtlı olduğum programdan kaydımı nasıl sildirebilirim?
 
 Enstitü web sayfasında bilgi-belge kısmındaki “Genel Amaçlı Dilekçe” ile başvurulduğu takdirde aynı gün içerisinde kaydınız silinir. Öğrencinin kaydının silinebilmesi için kütüphane veya üniversitenin herhangi bir biriminden aldığı materyalin olmaması ve dilekçeye ek olarak da nüfus cüzdanı fotokopisi ve öğrenci kimlik kartını eklemesi gerekmektedir.
+Genel Amaçlı Dileçke: https://sbe.aksaray.edu.tr/indir/009d8fff-abef-43da-95c5-2ae0189fa44c.pdf
 
 KAYIT YENİLEME VE DERS KAYIT SÜRECİ
 
@@ -133,6 +134,7 @@ Akademik Takvimde belirtilen mazeretli ders kaydı tarihleri içerisinde:
 1-Herhangi bir ücret ödemesine gerek olmayanlar ekle-sil haftasında danışman hocalarıyla irtibata geçerek ders kaydını onaylatacaklardır.
 
 2-Öğrenim harcı veya katkı parası yatırması gereken öğrenciler enstitüye belirlenen tarihlerde mazeretlerini belirtir “Genel Amaçlı Dilekçe” ile başvuracaklar. Enstitü Yönetim Kurulunca mazereti kabul edilen öğrenciler bankamatiklerden borçlarını ödeyip danışman hocalarıyla irtibata geçerek ders kaydını onaylatacaklardır.
+Genel Amaçlı Dileçke: https://sbe.aksaray.edu.tr/indir/009d8fff-abef-43da-95c5-2ae0189fa44c.pdf
 
 Daha önce başarısız olduğum seçmeli derslerin yerine başka bir seçmeli ders alabilir miyim?
 
@@ -155,6 +157,7 @@ Kaydımı ne kadar dondurabilirim?
 Tezsiz Yüksek Lisansta 1 yarıyıl, tezli yüksek lisansta 2 yarıyıl ve doktorada 2 yarıyıl dondurabilirsiniz.
 
 Akademik takvimde belirtilen süreler içerisinde enstitüye “Genel Amaçlı Dilekçe” ile başvuran öğrenciye, EYK tarafından, haklı ve geçerli kabul edilen mazeretinden dolayı doktora ve tezli yüksek lisans programındakiler için en fazla iki yarıyıla, tezsiz ve uzaktan öğretim yüksek lisans programındakiler için en fazla bir yarıyıla kadar kayıt dondurma hakkı verilebilir. Bu süre içinde öğrenci derslere devam edemez ve sınavlara giremez. Kayıt donduran öğrencinin, kayıt dondurma süreleri lisansüstü azami öğretim süresinden sayılmaz.
+Genel Amaçlı Dileçke: https://sbe.aksaray.edu.tr/indir/009d8fff-abef-43da-95c5-2ae0189fa44c.pdf
 
 Tezli Yüksek Lisans tez dönemindeyim hangi dersleri almam gerekiyor?
 
@@ -179,26 +182,35 @@ Seminer dersinden başarılı olmak için ne yapmam gerekiyor?
 Tezli yüksek lisans ve doktora programlarında, seminer dersine kayıtlı öğrenciler için seminer konusunun danışman tarafından sekizinci haftaya kadar belirlenir.
 
 Seminer sunumlarının, öğrencinin talebi üzerine (seminer başvuru formu ve intihal raporunun(%30) danışman onaylı ilk sayfası), danışmanın uygun görüşü ve anabilim dalı başkanlığının onayı ile final haftası içerisinde yapılır, başarısız olan öğrenciler için de bütünleme haftasında tekrar sunum yapabilme imkânı sağlanır.
+Seminer başvuru formu: https://sbe.aksaray.edu.tr/indir/95bf8270-5a85-42d5-a420-15b81e2c9cb4.docx
 
 Seminer sunumlarının, anabilim dalı başkanlığının bulunduğu fakülte binasında, izleyiciye açık bir şekilde gerçekleştirilir.
 
 Seminer sunumuna başvuran öğrenciler için anabilim dalı başkanlıklarınca bir takvim oluşturularak, öğretim elemanları ve öğrencilere duyurulur.
 
 Seminer sunumu sonunda danışman, enstitümüz lisansüstü tez yazım kılavuzuna uygun bir şekilde hazırlanmış olan PDF formatında seminer ödevini, seminer ödevinin orijinallik raporunun ilk sayfasını (orijinallik oranı en fazla %30), doldurmuş olduğu danışman seminer değerlendirme formunu ve katılımcıların imzaladığı“Seminer Katılımcı Formu”nu anabilim dalı başkanlığı tarafından EBYS aracılığıyla enstitüye gönderilmesini sağlar.
+Tez yazım kılavuzuna: https://sbe.aksaray.edu.tr/tez-yazim-klavuzlari
+Danışman seminer değerlendirme formunu: https://sbe.aksaray.edu.tr/indir/ecea9844-3386-483b-8f0c-4b8599b421f2.doc
+Seminer Katılımcı Formu: https://sbe.aksaray.edu.tr/indir/c051adf9-81a5-403e-962a-3fc4dd665975.docx
 
 Öğrenci veya danışman seminer ödevini CD olarak enstitümüze vermeyecek olup PDF formatında, diğer evraklarla birlikte anabilim dalı başkanlığı aracılığıyla EBYS üzerinden enstitüye gönderilmesini sağlamakla sorumludur.
 
 Tezli Yüksek Lisans Programında tez önerimi ne zaman verebilirim?
 
 Öğrencinin danışmanıyla beraber belirlediği tez konusunu en geç ikinci yarıyılın sonuna kadar web sitemiz bilgi-belgelerdeki “Tez Öneri Formu” ve “Tez Öneri Raporu Örneği”ni (2 sayfayı geçmeyecek )  doldurup Anabilim dalına teslim etmeniz ve EABD/EASD başkanının onayı ile birlikte enstitüye göndermesi gerekmektedir. Tez önerisi EYK kararı ile kesinleşir.
+Tez Öneri Formu: https://sbe.aksaray.edu.tr/indir/c144c0f8-d279-41e4-b96a-052ef086adb9.doc
+Tez Öneri Raporu Örneği: https://sbe.aksaray.edu.tr/indir/8de28f48-15bd-4795-952b-fe579e1f9547.docx
 
 Tez konusunda değişiklik yapmak istiyorum ne yapmalıyım?
 
 Tez önerisi EYK tarafından kabul edilen öğrenci “Tez Konusu Değişikliği Öneri Formu”nu ve “Tez Öneri Raporu Örneği”ni (2 sayfayı geçmeyecek )ABD aracılığıyla Enstitüye göndermesi gerekmektedir.
+Tez Konusu Değişikliği Öneri Formu: https://sbe.aksaray.edu.tr/indir/f97a793e-eff2-4969-a4fd-e9f7c725bfaf.docx
+Tez Öneri Raporu Örneği: https://sbe.aksaray.edu.tr/indir/8de28f48-15bd-4795-952b-fe579e1f9547.docx
 
 Dönem projesi önerisini ne zaman verebilirim?
 
 İkinci yarıyıl başlangıcından itibaren akademik takvimde belirtilen son güne kadar bilgi-belgelerdeki “Dönem Projesi Öneri Formu”nu doldurup, anabilim dalına teslim etmeniz ve EABD/EASD başkanının onayı ile birlikte enstitüye göndermesi gerekmektedir. Proje önerisi EYK kararı ile kesinleşir.
+Dönem Projesi Öneri Formu: https://sbe.aksaray.edu.tr/indir/bee3273f-8319-4031-a663-1352595ae31e.doc
 
 Tez önerisi veya dönem projesi önerisinin kabul edilip edilmediğini nasıl öğrenebilirim?
 
@@ -230,6 +242,11 @@ En erken ikinci yarıyılın sonunda en geç üçüncü yarıyılın sonunda dan
 
 5.     Öğrenci kimlik kartını
 
+Dönem Projesi Değerlendirme: https://sbe.aksaray.edu.tr/indir/24e2d833-e6dd-4a4b-ba61-8763a0f176b1.doc
+Dönem Projesi Tutanağı: https://sbe.aksaray.edu.tr/indir/8f286533-c5ba-40ee-b251-327fbfd8a361.docx
+İlişik Kesme Formu: https://sbe.aksaray.edu.tr/indir/b09761b6-6be2-490f-87c6-12f7612bca15.doc
+
+
 Enstitüye teslim etmeniz gerekmektedir. Enstitü Yönetim Kurulunun projenizi kabulünden sonra mezuniyet işlemleriniz 10 iş günü içerisinde tamamlanacaktır.
 
 TEZLİ YÜKSEK LİSANS
@@ -255,6 +272,13 @@ NOT: Tarih belirlenirken Enstitü Yönetim Kurulunun toplantı tarihinden itibar
 NOT: Öğrenci, savunma tarihinin EYK tarafından onaylanmasından sonra savunmaya bir hafta kalana kadar jüri üyelerine spiral baskılı birer adet tezi teslim etmek zorundadır.
 
 Öğrencinin, savunma öncesinde Bilgi-Belgeler sayfasındaki “Jüri Onay Sayfası”ndan (jüri isimleri yazılı 5 adet; buradaki tez başlığının jürinin kabul ettiği başlığı olması gerekir) , her jüri üyesi için “Tez Jüri İnceleme Rapor Formu” ve “Yüksek Lisans Tezi Sınav Tutanağı Formu”nu bilgisayar ortamında hazırlaması ve sınav esnasında jüri üyelerine vermesi gerekir.
+
+Tez Sınavı Jüri Öneri Formu: https://sbe.aksaray.edu.tr/indir/fef34538-3216-4c73-952f-e53b60e14818.doc
+Tez Savunulabilirlik ve Orijinallik Beyanı Formu: https://sbe.aksaray.edu.tr/indir/0a4ab4ab-039a-4696-8770-98f138d69b17.docx
+Tez Teslim ve Taahhüt Formu: https://sbe.aksaray.edu.tr/indir/41f51c10-8400-4eb1-898b-e14808304d0a.docx
+Jüri Onay Sayfası: https://sbe.aksaray.edu.tr/indir/1652abe6-a7f6-4753-a09b-84521d644136.docx
+Tez Jüri İnceleme Rapor Formu: https://sbe.aksaray.edu.tr/indir/e2542e00-1e5e-4216-93d9-d2bffb13c248.doc
+Yüksek Lisans Tezi Sınav Tutanağı Formu: https://sbe.aksaray.edu.tr/indir/dd5fbf1c-1a53-4c38-b0ca-9f7b0685fad1.doc
 
 Tez savunma sınavından başarılı oldum. Enstitüye hangi evrakları teslim etmem gerekiyor?
 
@@ -284,9 +308,10 @@ Tezin jüri üyeleri tarafından kabulüyle birlikte önerilen düzeltme işleml
 
 Enstitüye teslim edilir.
 
- 
-
 Yukarıdaki belgeler eksiksiz teslim edildikten sonra, en erken 15 gün sonunda EYK’nın onayına sunulur. EYK’nın tezi kabulünden sonra enstitü tarafından öğrencinin sisteme kayıtlı e-posta adresine göndereceği onaylı jüri onay sayfasını öğrenci tezine ekleyerek tamamını CD’ye(2 Adet) WORD ve PDF formatında ekleyerek “Yüksek Lisans CD Kapağı”yla birlikte enstitüye teslim eder. CD adının Ulusal Tez Merkezindeki referans numarası olması gerekmektedir.
+İlişik Kesme Formu: https://sbe.aksaray.edu.tr/indir/66b74db3-e788-4cb2-aaaa-9ef3af807ea5.doc
+Jüri Onay Sayfası: https://sbe.aksaray.edu.tr/indir/1652abe6-a7f6-4753-a09b-84521d644136.docx
+Yüksek Lisans CD Kapağı: https://sbe.aksaray.edu.tr/indir/c93fdf3f-915b-439f-bf83-0ce42ab41db6.doc
 
 Tez savunma sınavından başarılı oldum. Evrakların teslim süresi ne kadardır?
 
@@ -311,22 +336,30 @@ DOKTORA
 Doktora yeterlik sınavına ne zaman girebilirim?
 
 Öğrenci, derslerini başarı ile tamamladıktan sonra danışmanın onayıyla yeterlik sınavına girmek istediğini belirten “Yeterlik Sınavı Başvuru Formu” ile EABD başkanlığına başvurur. Doktora yeterlik komitesi “Yeterlik Jüri Öneri Formu”nu doldurarak öğrencinin yeterlik sınavına gireceği tarih, saat ve yeri belirleyerek Enstitüye gönderir. Yeterlik sınavları Ocak-Haziran ve Temmuz-Aralık dönemlerinde olmak üzere yılda iki kez yapılır. Yüksek lisans derecesi ile kabul edilen öğrenci en geç beşinci yarıyılın, lisans derecesi ile kabul edilmiş olan öğrenci en geç yedinci yarıyılın sonuna kadar yeterlik sınavına girmek zorundadır.
+Yeterlik Sınavı Başvuru Formu: https://sbe.aksaray.edu.tr/indir/7720394d-7134-465d-afe0-226edff03d4d.doc
+Yeterlik Jüri Öneri Formu: https://sbe.aksaray.edu.tr/indir/98bfc36f-3d0f-44f0-83d5-f0d1029f9e87.doc
 
 Yeterlilik sınavından başarılı olmam için kaç puan almam gerekir?
 
 Doktora yeterlik sınavı, yazılı ve sözlü olarak iki bölüm halinde yapılır. Yazılı sınavda başarılı olan öğrenci sözlü sınava alınır. Öğrencinin yazılı ya da sözlü sınavdan başarılı sayılabilmesi için her iki sınavdan da ayrı ayrı olmak üzere 100 üzerinden en az 75 puan alması gerekir. Bu sınav sonucunda danışman yazılı sınav evraklarını Enstitüye teslim eder ve “Doktora Yeterlik Sınav Tutanağı Formu”nu da en geç 3 iş günü içerisinde ABD aracılığıyla Enstitüye iletilmesini sağlar.
+Doktora Yeterlik Sınav Tutanağı Formu: https://sbe.aksaray.edu.tr/indir/31dce295-f9cf-419c-964f-5e2ff5ff2152.doc
 
 Tez izleme komitesi nasıl ve kimlerden oluşacak?
 
 Doktora yeterlik sınavında başarılı olan öğrenci için, danışmanın önerisi (Tez İzleme Komitesi Öneri Formu), anabilim dalı kurulunun uygun görüşü ve EYK’nin onayı ile bir ay içinde tez izleme komitesi oluşturulur. Tez izleme komitesi üç öğretim üyesinden oluşur. Komitede tez danışmanından başka EABD/EASD içinden ve dışından birer üye yer alır. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı dilerse komite toplantılarına katılabilir ancak tez izleme komitesine üye olamaz.  Tez izleme komitesinin kurulmasından sonraki yarıyıllarda, anabilim dalı kurulunun gerekçeli önerisi ve EYK’nin onayı ile komite üyelerinde değişiklik yapılabilir.
+Tez İzleme Komitesi Öneri Formu: https://sbe.aksaray.edu.tr/indir/252d8494-b926-4e1a-9226-429f696ff0ac.doc
 
 Tez öneri savunmasına girmek istiyorum, ne yapmalıyım?
 
 Doktora yeterlik sınavını başarı ile tamamlayan öğrenci, en geç altı ay içinde tez önerisini(tez önerisi savunması başvuru formu) tez izleme komitesi önünde sözlü olarak savunur. Öğrenci, tez önerisi ile ilgili yazılı bir raporu sözlü savunmadan en az on beş gün önce komite üyelerine dağıtır. Savunma sınavı sonunda öğrenci için tez öneri savunma sınav tutanağı formu ve tez öneri raporu örneğini doldurularak ABD aracılığıyla Enstitüye iletilir.
+Tez önerisi savunması başvuru formu: https://sbe.aksaray.edu.tr/indir/35bb6d38-a6af-4bff-8ab4-0aaebc8be5e6.doc
+Tez öneri savunma sınav tutanağı formu: https://sbe.aksaray.edu.tr/indir/de5a2761-2f14-4c8e-b5f2-975f9c7ad770.doc
+Tez öneri raporu örneğini: https://sbe.aksaray.edu.tr/indir/d3d43989-f077-4fc3-b58d-0ebbb5e93ebd.docx
 
 Tez konusunda değişiklik yapmak istiyorum ne yapmalıyım?
 
 Tez önerisi EYK tarafından kabul edilen öğrenci tez konusu değişikliği öneri formunu ABD aracılığıyla Enstitüye göndermesi gerekmektedir. EYK’nın onayından sonra süreç yeniden başlar.
+Tez konusu değişikliği öneri formu: https://sbe.aksaray.edu.tr/indir/7f86616e-4187-4029-8d42-e1c98f2799c0.docx
 
 Tez önerim kabul edildi ilk Tez İzleme Komitesi (TİK) raporunu ne zaman verebilirim?
 
@@ -357,40 +390,25 @@ Doktora Tez savunma sınavına girmek istiyorum hangi evrakları hazırlamam ger
  
 
 Savunma Tarihi Alabilmek için Gerekli Evraklar :
-
-1.     Tez Savunma Jüri Öneri Formu(Yönetim kurulu tarihinden itibaren en erken 15 gün en geç 1 ay içerisinde)
-
-2.     Tez Savunulabilirlik ve Orijinallik Formu ( Danışman imzalı)
-
-3.     Tez Teslim Taahhüt Formu (Öğrenci imzalı)
-
-4.     İntihal raporunun ilk sayfası(Danışman tarafından imzalı olarak)
-
-5.    5-Online Tez Savunma Sınavı Skype Adresleri Formu (Jüriler ve öğrencinin skype adresleri oluşturması ve Enstitünün skype adresi olan ''Sbe Aksaray''  ı eklemeleri  gerekmektedir.)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------->	deepL
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+1. Tez Savunma Jüri Öneri Formu(Yönetim kurulu tarihinden itibaren en erken 15 gün en geç 1 ay içerisinde)
+2. Tez Savunulabilirlik ve Orijinallik Formu ( Danışman imzalı)
+3. Tez Teslim Taahhüt Formu (Öğrenci imzalı)
+4. İntihal raporunun ilk sayfası(Danışman tarafından imzalı olarak)
+5. Online Tez Savunma Sınavı Skype Adresleri Formu (Jüriler ve öğrencinin skype adresleri oluşturması ve Enstitünün skype adresi olan ''Sbe Aksaray''  ı eklemeleri  gerekmektedir.)
 6- Doktora öğrencileri için (Üniversitemiz Lisansüstü Eğitim-Öğretim Sınav Yönetmeliği’nin 51.maddesinin 8.fıkrası gereğince 2017-2018 Eğitim-Öğretim Yılı Bahar Dönemi'nden itibaren yeterlik sınavından başarılı olan öğrencilerden,  danışmanıyla birlikte hazırlayacağı en az bir adet bilimsel makalesinin; hakemli bir dergide yayımlanmış/yayıma kabul edilmiş olması (DOI numarası veya dergi editörlüğünden kabul yazısı almış olmak) şartlarından birinin yerine getirilmesinin, öğrencinin doktora tez savunma sınavına girebilmesi için ön şart olarak belirlenmiştir.)
-
-Bu belgeler Anabilim Dalı aracılığıyla EBYS den gönderilecek 
-
- 
-
+Bu belgeler Anabilim Dalı aracılığıyla EBYS den gönderilecek
 Öğrencinin sınava gelirken hazırlayacağı evraklar:
+1. Doktora tezi sınav tutanağı formu (Jüri isimleri ve öğrenci bilgileri yazılı - 1 adet)
+2. Doktora tezi jüri inceleme rapor formu (Öğrenci bilgileri yazılı ve her bir jüri için birer tane - 5 adet)
+3. Jüri Onay Sayfası   (Jüri isimleri yazılı - 3 adet)
+ Bilgisayar ortamında doldurularak çıktısı alınacak
 
-1.     Doktora tezi sınav tutanağı formu (Jüri isimleri ve öğrenci bilgileri yazılı - 1 adet)
-
-2.     Doktora tezi jüri inceleme rapor formu (Öğrenci bilgileri yazılı ve her bir jüri için birer tane - 5 adet)
-
-3.     Jüri Onay Sayfası   (Jüri isimleri yazılı - 3 adet)
-
- 
-
-      Bilgisayar ortamında doldurularak çıktısı alınacak
+Tez Savunma Jüri Öneri Formu: https://sbe.aksaray.edu.tr/indir/6bbed192-a13b-416d-97fa-5be5706a59a3.doc
+Tez Savunulabilirlik ve Orijinallik Formu: https://sbe.aksaray.edu.tr/indir/a284e75f-8901-4cab-b90c-7777c6b80709.docx
+Tez Teslim Taahhüt Formu: https://sbe.aksaray.edu.tr/indir/e17308dd-cca7-4224-8b21-f513bde89ffe.docx
+Doktora tezi sınav tutanağı formu: https://sbe.aksaray.edu.tr/indir/21e7c6f9-20ec-4471-bc47-b3aae7196d83.doc
+Doktora tezi jüri inceleme rapor formu: https://sbe.aksaray.edu.tr/indir/2d58dab1-f57d-4edb-9894-038ba2e14424.doc
+Jüri Onay Sayfası: https://sbe.aksaray.edu.tr/indir/1a587b08-6f8b-4f95-bfcb-4592706f8d15.docx
 
 Doktora tez savunma Jürisi kimlerden oluşur?
 
@@ -413,24 +431,19 @@ Tezin jüri üyeleri tarafından kabul edilmesinden sonra öğrencinin 1 aylık 
 Tezin jüri üyeleri tarafından kabulüyle birlikte önerilen düzeltme işlemleri yapılarak danışman onayından sonra öğrenci tezini e-posta  (sbe@aksaray.edu.tr) yoluyla Enstitüye gönderir. Enstitünün intihal incelemesi ve tez yazım kılavuzuna uygunluğu kontrolünden sonra aşağıdaki işlemler yapılır;
 
 1.     2 Adet Tez Yazım Kılavuzuna uygun hazırlanmış ciltlenmiş tez
-
 2.     Ulusal Tez Merkezi Tez Veri Giriş Formu (2 Adet-İmzalı) çıktısı (https://tez.yok.gov.tr/UlusalTezMerkezi/)
-
 3.     Bilgi-Belge sayfasındaki İlişik Kesme Formu (1 Adet)
-
 4.     Bilgi-Belge sayfasındaki Jüri Onay Sayfası (İmzalı- 1 Adet)
-
 5.     Öğrenci Kimlik Kartı
-
 6- Tez savunması Online yapılanların görüntüleri Flash belleğe yükleyip Enstitüye teslim etmeleri gerekmektedir.
-
 7-Tezin tamamının olduğu CD (1 Adet-word ve pdf) Enstitüye teslim edilir. CD adının Ulusal Tez Merkezindeki referans numarası olması gerekmektedir.(Tezin içerisindeki jüri onay sayfası ve diğer tüm belgeler imzasız olarak ve kişisel veriniz (T.C. kimlik no, cep tel, e-posta, resminiz vb. olmadan CD’ye eklenecektir.)
-
 8-Hem Türk hem Yabancı Uyruklu öğrenciler mezun bilgi formunu doldurması gerekmektedir. (https://obs.aksaray.edu.tr/oibs/kariyer/login.aspx )
-
 9- Sadece yabancı uyruklu öğrenciler Türkiye Mezunları Mezun Bilgi Formunu doldurarak imzalı 2 adet çıktısını Enstitüye teslim etmelidir.
 
 (https://www.turkiyemezunlari.gov.tr/ )
+Tez savunma sınav tutanağı: https://sbe.aksaray.edu.tr/indir/21e7c6f9-20ec-4471-bc47-b3aae7196d83.doc
+İlişik Kesme Formu: https://sbe.aksaray.edu.tr/indir/d1c0b7ee-31dd-4aa5-93ca-6a62db389d46.doc
+Jüri Onay Sayfası: https://sbe.aksaray.edu.tr/indir/1a587b08-6f8b-4f95-bfcb-4592706f8d15.docx
 
 Enstitüye teslim edilir.
 
