@@ -15,9 +15,8 @@ from langchain.text_splitter import (
     RecursiveCharacterTextSplitter,
 )
 from langchain.vectorstores import Chroma
-from streamlit_chat import message
-
 from load_docs import load_docs
+from streamlit_chat import message
 
 load_dotenv("../.env")
 api_key = os.environ.get("OPENAI_API_KEY")
@@ -72,7 +71,7 @@ qa_chain = ConversationalRetrievalChain.from_llm(
 
 # === Streamlit front-end ===
 st.title("ASÜ AI")
-st.header("Merak ettiklerinizi sorabilirsiniz...🤖")
+st.header("🏫 Merak ettiklerinizi sorabilirsiniz...")
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
@@ -100,5 +99,14 @@ if user_input:
 
 if st.session_state["generated"]:
     for i in range(len(st.session_state["generated"])):
-        message(st.session_state["past"][i], is_user=True, key=str(i) + "_user")
-        message(st.session_state["generated"][i], key=str(i))
+        # message(
+        #     st.session_state["past"][i],
+        #     is_user=True,
+        #     key=str(i) + "_user",
+        # )
+        # message(st.session_state["generated"][i], key=str(i), avatar_style="")
+
+        with st.chat_message("user", avatar="🎓"):
+            st.write(st.session_state["past"][i])
+        with st.chat_message(name="assistant", avatar="aksaray_uni_logo.png"):
+            st.write(st.session_state["generated"][i])
